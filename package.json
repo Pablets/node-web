@@ -1,7 +1,7 @@
 {
   "name": "nodeweb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodeweb",
   "main": "index.js",
   "scripts": {
     "start": "node src",
@@ -18,4 +18,5 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
+
 }
