@@ -1,7 +1,7 @@
 {
   "name": "nodeweb",
   "version": "1.0.0",
-  "description": "Nodeweb",
+  "description": "nodeweb",
   "main": "index.js",
   "scripts": {
     "start": "node src",
